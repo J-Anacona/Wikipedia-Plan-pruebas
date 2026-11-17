@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:20:04+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=Co&format=json&limit=2",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "[\"Co\",[\"Co\",\"Coordenadas geogr\\u00e1ficas\"],[\"\",\"\"],[\"https://es.wikipedia.org/wiki/Co\",\"https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas\"]]"
+}

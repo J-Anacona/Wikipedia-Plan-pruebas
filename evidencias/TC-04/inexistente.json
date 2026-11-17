@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:46:58+00:00",
+  "url": "https://es.wikipedia.org/api/rest_v1/page/summary/Zzxqv_titulo_que_no_existe_2026",
+  "estado": 404,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "{\"status\":404,\"type\":\"Internal error\"}"
+}
