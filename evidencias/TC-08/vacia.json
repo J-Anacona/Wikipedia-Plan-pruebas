@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:19:54+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=&format=json",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "{\"error\":{\"code\":\"missingparam\",\"info\":\"The \\\"search\\\" parameter must be set.\",\"*\":\"See https://es.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.\"},\"servedby\":\"mw-api-ext.eqiad.main-7c654994b-d8h6x\"}"
+}

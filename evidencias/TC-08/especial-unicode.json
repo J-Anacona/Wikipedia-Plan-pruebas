@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:19:59+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=%E6%97%A5%E6%9C%AC%E8%AA%9E&format=json",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "[\"\\u65e5\\u672c\\u8a9e\",[\"\\u65e5\\u672c\\u8a9e\\u80fd\\u529b\\u8a66\\u9a13\",\"\\u65e5\\u672c\"],[\"\",\"\"],[\"https://es.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93\",\"https://es.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC\"]]"
+}

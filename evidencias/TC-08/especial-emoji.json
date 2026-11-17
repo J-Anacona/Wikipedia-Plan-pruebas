@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:20:00+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=%F0%9F%98%80&format=json",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "[\"\\ud83d\\ude00\",[],[],[]]"
+}

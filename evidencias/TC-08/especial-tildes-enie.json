@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:19:55+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=%C3%A1%C3%A9%C3%AD%C3%B3%C3%BA+%C3%B1&format=json",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "[\"\\u00e1\\u00e9\\u00ed\\u00f3\\u00fa \\u00f1\",[\"AeroUnion\",\"Aliou Ciss\\u00e9\",\"AEIOU\",\"Aliou Bald\\u00e9\",\"Aliou Dieng\",\"Aicu\\u00f1a\",\"Rachid Alioui\",\"Ami\\u00fan\",\"Alioum Alioum\",\"Aero Uruguay\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"https://es.wikipedia.org/wiki/AeroUnion\",\"https://es.wikipedia.org/wiki/Aliou_Ciss%C3%A9\",\"https://es.wikipedia.org/wiki/AEIOU\",\"https://es.wikipedia.org/wiki/Aliou_Bald%C3%A9\",\"https://es.wikipedia.org/wiki/Aliou_Dieng\",\"https://es.wikipedia.org/wiki/Aicu%C3%B1a\",\"https://es.wikipedia.org/wiki/Rachid_Alioui\",\"https://es.wikipedia.org/wiki/Ami%C3%BAn\",\"https://es.wikipedia.org/wiki/Alioum_Alioum\",\"https://es.wikipedia.org/wiki/Aero_Uruguay\"]]"
+}

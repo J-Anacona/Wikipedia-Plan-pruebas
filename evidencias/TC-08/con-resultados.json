@@ -1,0 +1,8 @@
+{
+  "fecha_utc": "2026-11-17T17:19:53+00:00",
+  "url": "https://es.wikipedia.org/w/api.php?action=opensearch&search=Colombia&format=json",
+  "estado": 200,
+  "content_type": "application/json; charset=utf-8",
+  "redirecciones_seguidas": 0,
+  "cuerpo": "[\"Colombia\",[\"Colombia\",\"Columbia Brit\\u00e1nica\",\"Colombia en la Copa Mundial de F\\u00fatbol de 2026\",\"Colombianos\",\"Colombia en la Copa Mundial de F\\u00fatbol de 2014\",\"Claudia de Colombia\",\"Colombia en la Copa Mundial de F\\u00fatbol\",\"Colombia en la Copa Mundial de F\\u00fatbol de 2018\",\"Colombia en la clasificaci\\u00f3n de Conmebol para la Copa Mundial de F\\u00fatbol de 2026\",\"Colombia en la Copa Am\\u00e9rica 2024\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"https://es.wikipedia.org/wiki/Colombia\",\"https://es.wikipedia.org/wiki/Columbia_Brit%C3%A1nica\",\"https://es.wikipedia.org/wiki/Colombia_en_la_Copa_Mundial_de_F%C3%BAtbol_de_2026\",\"https://es.wikipedia.org/wiki/Colombianos\",\"https://es.wikipedia.org/wiki/Colombia_en_la_Copa_Mundial_de_F%C3%BAtbol_de_2014\",\"https://es.wikipedia.org/wiki/Claudia_de_Colombia\",\"https://es.wikipedia.org/wiki/Colombia_en_la_Copa_Mundial_de_F%C3%BAtbol\",\"https://es.wikipedia.org/wiki/Colombia_en_la_Copa_Mundial_de_F%C3%BAtbol_de_2018\",\"https://es.wikipedia.org/wiki/Colombia_en_la_clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2026\",\"https://es.wikipedia.org/wiki/Colombia_en_la_Copa_Am%C3%A9rica_2024\"]]"
+}
