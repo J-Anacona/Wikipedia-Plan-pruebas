@@ -127,17 +127,7 @@ python entrega/generar_pdf.py
 
 Requiere Chrome o Edge instalado. El resultado queda en `entrega/`. Todos los archivos deben guardarse en UTF-8.
 
-## Estado del proyecto
 
-- [x] Repositorio, estructura de carpetas y tablero kanban
-- [x] Plan de pruebas, secciones 1 a 8 (borrador)
-- [x] Script de TC-08 ejecutado correctamente
-- [ ] Script de TC-04: falta cerrar la clase de redirección
-- [ ] Archivos de casos en `docs/casos/` (TC-01 a TC-08)
-- [ ] Ejecución de los 6 casos manuales y registro de evidencias
-- [ ] Registro de defectos
-- [ ] Revisión cruzada, informe de cierre y release final
-- [ ] PDF final
 
 ## Referencias
 
